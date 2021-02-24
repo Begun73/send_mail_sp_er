@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="fec77677-6afc-4726-81f5-30a0042c29ef" solutionId="fec77677-6afc-4726-81f5-30a0042c29ef" resetWebServer="false" sharePointProductVersion="19.0" name="SendEmail.ER" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="c56cdc4a-d340-4d90-8884-218b29bfe48a" />
+  </features>
+</package>
